@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roccograpisarda&label=Profile%20views&color=0e75b6&style=flat" alt="roccograpisarda" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Kotlin**
 
 - 📫 How to reach me **inbox@roccorapisarda.it**
 
